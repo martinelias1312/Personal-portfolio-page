@@ -172,7 +172,7 @@ body {
     margin: 0 2em;
     font-size: 2em;
     text-shadow: 1px 1px 1px var(--color--brown);
-    transition-duration: 1s; 
+    transition-duration: 0.3s; 
 }
 
 #profile-link:hover, #profile-link:focus {
